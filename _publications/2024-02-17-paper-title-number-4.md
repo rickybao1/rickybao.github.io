@@ -1,7 +1,7 @@
 ---
 title: "Room temperature polariton spin switches based on Van der Waals superlattices"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: /publication/2024-09-01-paper-title-number-4
 date: 2024-09-01
 paperurl: 'https://www.nature.com/articles/s41467-024-51612-2'
