@@ -23,7 +23,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruiqi Bao"
-  pronouns         : "Dr"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
@@ -36,9 +35,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9768-4864"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
