@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Room temperature polariton spin switches based on Van der Waals superlattices"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+category: Journal
+permalink: /publication/2024-09-01-paper-title-number-4
+date: 2024-09-01
+paperurl: 'https://www.nature.com/articles/s41467-024-51612-2'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
